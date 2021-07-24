@@ -1,0 +1,28 @@
+{
+    "produtos": [
+        {
+            "id": 1,
+            "title": "Nacon Controller",
+            "price": "R$450.00",
+            "image": "https://media.nacongaming.com/media/catalog/product/cache/875b1a7e5b023fb035d46777f1e1fd2e/p/s/ps4ofpadrev_2.png"
+          },
+          {
+            "id": 2,
+            "title": "Nacon Controller",
+            "price": "R$700,00",
+            "image": "https://media.nacongaming.com/media/catalog/product/cache/875b1a7e5b023fb035d46777f1e1fd2e/p/s/ps4ofpadrev_2.png"
+          },
+          {
+            "id": 3,
+            "title": "Nacon Controller",
+            "price": "R$750.00",
+            "image": "https://media.nacongaming.com/media/catalog/product/cache/875b1a7e5b023fb035d46777f1e1fd2e/p/s/ps4ofpadrev_2.png"
+          },
+          {
+            "id": 4,
+            "title": "Nacon Controller",
+            "price": "R$750.00",
+            "image": "https://media.nacongaming.com/media/catalog/product/cache/875b1a7e5b023fb035d46777f1e1fd2e/p/s/ps4ofpadrev_2.png"
+          }
+    ]
+  }
